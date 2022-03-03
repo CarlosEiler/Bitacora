@@ -1,6 +1,10 @@
 # Bitacora
 Bitácora de enseñanza en programación
 
-Vamos a crear un repositorio paso a paso
-
 primero debemos tener una cuenta en GitHUP
+
+Vamos a crear un repositorio paso a paso
+debemos carga la imagen ya lista 
+
+
+

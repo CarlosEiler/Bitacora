@@ -10,7 +10,7 @@ primero debemos tener una cuenta en GitHUP
  - hacemos click en nuevo repositorio, donde aparce resaltadado con azul.
  - en esta nueva imagen debemos hacer lo siguiente:
  - ahora debemos escribir el nombre de nuestro repositorio
- - seleccionamos que se publico y escogemos la licencia MIT, luego de esto vamos a dar click en el boton verde.
+ - seleccionamos que sea publico (Public) y escogemos la licencia MIT, luego de esto vamos a dar click en el boton verde.
  
  
  ![Captura de pantalla 2022-03-03 a las 20 04 56](https://user-images.githubusercontent.com/99752920/156637642-f84a424e-a011-48e8-9271-21bd7b5f19e3.png)

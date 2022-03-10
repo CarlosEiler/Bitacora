@@ -24,7 +24,9 @@ podemos observar como con el simbolo númeral va aumentando su desplazamiento ti
 
 tambien podemos hacer 
 
+![Captura de pantalla 2022-03-10 a las 20 27 29](https://user-images.githubusercontent.com/99752920/157743541-e62fd650-a7f2-4fb2-98d5-9f91417def25.png)
 
+una forma
 
 
 

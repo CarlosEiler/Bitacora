@@ -17,6 +17,8 @@ primero debemos tener una cuenta en GitHUP
   
  
 Para configurar el tamaño de la letra y su posición de nuestro contenido debemos tener encuenta lo siguente:
+
+
 # H1
 ## H2
 ### H3

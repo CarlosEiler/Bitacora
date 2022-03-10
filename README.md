@@ -16,4 +16,12 @@ primero debemos tener una cuenta en GitHUP
  ![Captura de pantalla 2022-03-03 a las 20 04 56](https://user-images.githubusercontent.com/99752920/156637642-f84a424e-a011-48e8-9271-21bd7b5f19e3.png)
   
  
+Para configurar el tamaño de la letra y su posición de nuestro contenido debemos tener encuenta lo siguente:
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
+podemos observar como con el simbolo nuemral va aumentando su tamaño 

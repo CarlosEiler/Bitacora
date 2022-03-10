@@ -16,11 +16,13 @@ primero debemos tener una cuenta en GitHUP
  ![Captura de pantalla 2022-03-03 a las 20 04 56](https://user-images.githubusercontent.com/99752920/156637642-f84a424e-a011-48e8-9271-21bd7b5f19e3.png)
   
  
-Para configurar el tamaño de la letra y su posición de nuestro contenido debemos tener encuenta lo siguente:
+Para configurar los titulos y subtitulos debemos tener encuenta lo siguente:
 
 ![Captura de pantalla 2022-03-10 a las 19 47 45](https://user-images.githubusercontent.com/99752920/157735430-0e7a835a-e5a9-4018-86f0-0e81c27138e7.png)
 
 podemos observar como con el simbolo númeral va aumentando su desplazamiento tipo tabla de contenido.
+
+tambien podemos hacer 
 
 
 

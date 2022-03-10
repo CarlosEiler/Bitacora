@@ -20,7 +20,7 @@ Para configurar el tamaño de la letra y su posición de nuestro contenido debem
 
 ![Captura de pantalla 2022-03-10 a las 19 47 45](https://user-images.githubusercontent.com/99752920/157735430-0e7a835a-e5a9-4018-86f0-0e81c27138e7.png)
 
-podemos observar como con el simbolo númeral va aumentando su tamaño 
+podemos observar como con el simbolo númeral va aumentando su desplazamiento tipo tabla de contenido.
 
 
 
